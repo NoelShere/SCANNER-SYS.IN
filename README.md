@@ -1,5 +1,5 @@
 
-This program takes in user input strings and outputs the strings.
+This program takes in user input Int  and outputs the addition.
 
 #Key components
 
