@@ -1,4 +1,3 @@
-import java.io.EOFException;
 import java.lang.*;
 import java.util.Scanner;
 
@@ -21,6 +20,8 @@ public class Main {
         c = a + b;
 
         System.out.println(c);
+
+        s.close();
 
 
     }
